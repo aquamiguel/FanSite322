@@ -13,3 +13,5 @@ p	{text-align: center;}
     width: 50%;
 }
 a 	{color: white;}
+a:visited { color: yellow; }
+   
