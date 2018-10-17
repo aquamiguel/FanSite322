@@ -12,6 +12,9 @@ p	{text-align: center;}
     margin-right: auto;
     width: 50%;
 }
+
+#imgB {border: solid thick Black; }
+
 a 	{color: white;}
 a:visited { color: yellow; }
    
